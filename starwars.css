@@ -110,16 +110,7 @@ transform: translateX(-50%);
 top: 90px;
 background: #FFFF00;
 }
-#finn .eyes {
-position: absolute;
-top: 30px;
-width: 10px;
-height: 10px;
-background: #2f1d16;
-border-radius: 50%;
-left: 25%;
-transform: translateX(-50%);
-}
+
 #finn .eyes:after {
 content: "";
 position: absolute;
