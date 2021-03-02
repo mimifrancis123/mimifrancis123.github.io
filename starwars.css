@@ -16,7 +16,7 @@ align-items: center;
 background: #e8e8e8;
 }
 #dark {
-background: #131313;
+background: #3B00B3;
 }
 .container {
 display: flex;
@@ -73,7 +73,7 @@ transform: translateX(-50%);
 top: 43px;
 width: 80px;
 height: 80px;
-background: #33292a;
+background: #FFFF00;
 border-radius: 50%;
 }
 #finn .ear {
@@ -108,7 +108,7 @@ border-radius: 12px;
 left: 50%;
 transform: translateX(-50%);
 top: 90px;
-background: #744737;
+background: #FFFF00;
 }
 #finn .eyes {
 position: absolute;
